@@ -6,11 +6,11 @@ order: 4
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">The Protogen that likes to complain :P</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=screamingtoaster&label=Profile%20views&color=0e75b6&style=flat" alt="screamingtoaster" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ScreamingToaster&label=Profile%20views&color=0e75b6&style=flat" alt="ScreamingToaster" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=screamingtoaster" alt="screamingtoaster" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ScreamingToaster" alt="ScreamingToaster" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/screamingtoaster](https://github.com/screamingtoaster)
+- 👨‍💻 All of my projects are available at [https://github.com/ScreamingToaster](https://github.com/ScreamingToaster)
 
 - 📝 I regularly write on [https://screamingtoaster.github.io](https://screamingtoaster.github.io)
 
